@@ -3,9 +3,10 @@ Machine learning Mobile_app
 <hr>
 <h1>Core Libraries<h1>
   <h4>1. expo image picker</h4>
-  <h4> 2. tensorflow </h4>
-<h4>3. opencv</h4>
-  <h4>4. matplot</h4>
+  <h4>2. Firebase</h4>
+  <h4> 3. tensorflow </h4>
+<h4>4. opencv</h4>
+  <h4>5. matplot</h4>
 
 <hr>
   <h1>Application Interface<h1>
@@ -23,4 +24,7 @@ Machine learning Mobile_app
     <h1>Report </h1>
      <div style={{padding:50}}><img src="./assets/r1.jpeg" width=232 padding=20/>
     <img src="./assets/r2.jpeg" width=232 padding=20/><img src="./assets/about.jpeg" width=232 padding=20/></div>
+    <hr>
+    <h1>System Architecture</h1>
+    <div style={{padding:50}}><img src="./assets/arc.jpeg" padding=20/></div>
     

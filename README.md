@@ -9,4 +9,10 @@ Machine learning Mobile_app
 
 <hr>
   <h1>Application Interface<h1>
+    <div style={{padding:50}}><img src="./assets/splash.jpeg" width=232 padding=20/> 
+      <img src="./assets/signin.jpeg" width=232 padding=20/></div><br>
+    <div style={{padding:50}}><img src="./assets/h1.jpeg" width=232 padding=20/> 
+      <img src="./assets/h2.jpeg" width=232 padding=20/>
+    <img src="./assets/h3.jpeg" width=232 padding=20/>
+    <img src="./assets/h4.jpeg" width=232 padding=20/></div>
     
